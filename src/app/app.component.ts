@@ -61,7 +61,7 @@ c: any;
   }
 
   incrementCount() {
-    this.count.update(c => c + 1);
+    this.count.update(c => c + 10);
   }
 
 }
